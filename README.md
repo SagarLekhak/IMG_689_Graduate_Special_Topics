@@ -6,15 +6,15 @@ The repository is organized as follows:
 
 ```
 📂 Machine-Learning-for-Remote-Sensing
-│── 📂 EDA (Exploratory Data Analysis)
+│── 📂 eda (Exploratory Data Analysis for Hyperspectral and Multispectral Data.)
 │   ├── Data preprocessing (handling NaN values, reflectance normalization)
 │   ├── Statistical analysis of multispectral data.
 │   ├── Visualization (histograms, spectral signatures, scatter plots)
-│── 📂 Hyperspectral Imaging
+│── 📂 ml (Machine Learning for Hyperspectral Imaging)
 │   ├── Data preprocessing (handling NaN values, reflectance normalization)
 │   ├── Principal Component Analysis (PCA) for dimensionality reduction
 │   ├── K-Means clustering on hyperspectral data
-│── 📂 Hyperspectral Imaging: Classification and Regression
+│── 📂 ml_2 (Machine Learning for Hyperspectral and Multispectal Imaging: Classification and Regression)
 │   ├── Classification of Pavia University hyperspectral dataset using Logistic Regression and XGBoost
 │   ├── Regression to Predict Chlorophyll content from multispectral data
 │      ├── Linear Regression
