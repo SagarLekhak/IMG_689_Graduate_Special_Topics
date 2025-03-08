@@ -10,6 +10,16 @@ The repository is organized as follows:
 │   ├── Data preprocessing (handling NaN values, reflectance normalization)
 │   ├── Statistical analysis of multispectral data.
 │   ├── Visualization (histograms, spectral signatures, scatter plots)
+│── 📂 Hyperspectral Imaging
+│   ├── Data preprocessing (handling NaN values, reflectance normalization)
+│   ├── Principal Component Analysis (PCA) for dimensionality reduction
+│   ├── K-Means clustering on hyperspectral data
+│── 📂 Hyperspectral Imaging: Classification and Regression
+│   ├── Classification of Pavia University hyperspectral dataset using Logistic Regression and XGBoost
+│   ├── Regression to Predict Chlorophyll content from multispectral data
+│      ├── Linear Regression
+│      ├── Partial Least Squares Regression (PLSR)
+│      ├── Multilayer Perceptron (MLP) Regression
 │── 📂 Other Projects (Coming Soon)
 │   ├── TBD
 │── README.md
